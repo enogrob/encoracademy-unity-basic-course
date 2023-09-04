@@ -16,9 +16,9 @@ Learn everything you need to about the subject of this `EncorAcademy` project.
 ## Topics
 ```
 1.Unity Introduction
-[x] About Unit
-[x] Installation of Unity via Unity Hub
-[x] Unity Interface
+[x] 1 About Unit
+[x] 2 Installation of Unity via Unity Hub
+[x] 3 Unity Interface
 2.Essential Unit Concepts
 [x] 2.1 GameObjects
 [x] 2.2 Components
